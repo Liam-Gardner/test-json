@@ -1,0 +1,302 @@
+{
+	"restaurant": {
+		"name": "MexicanCafe",
+		"language": "English",
+		"currency": "£",
+		"colour": "#b20837", 
+		"logo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/thumb_appicon.png",
+		"socialMedia": [{
+			"site": "facebook",
+			"classStyle": "fab fa-facebook-f"
+		}, {
+			"site": "instagram",
+			"classStyle": "fab fa-instagram"
+		}, {
+			"site": "twitter",
+			"classStyle": "fab fa-twitter"
+		}],
+		"header": {
+			"navbar": {
+				"menuOptions": [{
+						"text": "home",
+						"link": "index"
+					},
+					{
+						"text": "contact",
+						"link": "#contact"
+					},
+					{
+						"text": "order online",
+						"link": "order"
+					},
+					{
+						"text": "About Us",
+						"link": "#aboutSection"
+					},
+					{
+						"text": "Reservations",
+						"link": "#reservations"
+					}
+				],
+				"socialMedia": [{
+					"site": "facebook",
+					"classStyle": "fab fa-facebook-f"
+				}, {
+					"site": "instagram",
+					"classStyle": "fab fa-instagram"
+				}, {
+					"site": "twitter",
+					"classStyle": "fab fa-twitter"
+				}],
+
+				"languageOptions": [{
+					"language": "Nederlands",
+					"value": "nl"
+				}, {
+					"language": "Deutsche",
+					"value": "de"
+				}, {
+					"language": "English",
+					"value": "en"
+				}, {
+					"language": "Español",
+					"value": "es"
+				}, {
+					"language": "Ελληνικά",
+					"value": "el"
+				}]
+			},
+			"banner": {
+				"images": [{
+						"imageSrc": "https://flipdishimages.azureedge.net/xcR6uJvjxGc6ftKiejWGc0SObwE.jpg?w=1080&h=720"
+					},
+					{
+						"imageSrc": "https://flipdishimages.azureedge.net/bmUawXRlRjt8KMZOQxHvWmLAE.jpg?w=1080&h=720"
+					},
+					{
+						"imageSrc": "https://flipdishimages.azureedge.net/oPzz1gSwBFWV2AG4MeQC4ebpQw.jpg?w=1080&h=720"
+					}
+				],
+				"logo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/appicon.png",
+				"restaurantAddresses": [{
+						"streetAddress": "22 Old Street",
+						"city": "Shoreditch",
+						"county": "London"
+					},
+					{
+						"streetAddress": "1 Sailsbury Place",
+						"city": "Newington",
+						"county": "Edinburgh"
+					},
+					{
+						"streetAddress": "1 Main Street",
+						"city": "",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "First Floor Heron House",
+						"city": "Sandyford Business Park",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "271 Birrell St",
+						"city": "Bonte",
+						"county": "Sydney"
+					},
+					{
+						"streetAddress": "48 O'Connell St",
+						"city": "Dublin 1",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "99 Brian Road",
+						"city": "Marino",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "56 Main St",
+						"city": "Castleknock",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "101 Upr Mayor St",
+						"city": "Dubin 1",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "11 Hillcrest Park",
+						"city": "Finglas",
+						"county": "Dublin"
+					},
+					{
+						"streetAddress": "29 Grafton St",
+						"city": "Dublin 2",
+						"county": "Dublin"
+					}
+				],
+				"mobileApp": [{
+					"itunes": "https://itunes.apple.com/app/id1080308288"
+				}, {
+					"playStore": "https://play.google.com/store/apps/details?id=ie.flipdish.mexicancafe"
+				}]
+			}
+		},
+		"aboutSection": {
+			"sectionTitle": "mexican cafe",
+			"subTitle": "",
+			"sections": [{
+				"sectionOne": {
+					"sectionTitle": "A Taste of Mexico",
+					"text": "Mexican cuisine is as complex as other ancient cuisines, such as those of China and Japan, with techniques and skills developed over thousands of years of history. It is created mostly with ingredients native to Mexico, as well as those brought over by the Spanish conquistadors, with some new influences since then. In addition to staples, such as corn and chili peppers, native ingredients include tomatoes, squashes, avocados, cocoa and vanilla, as well as ingredients not generally used in other cuisines, such as edible flowers, vegetables like huauzontle and papaloquelite, or small criollo avocados, whose skin is edible.",
+					"images": [{
+							"imageSrc": "https://flipdishimages.azureedge.net/xcR6uJvjxGc6ftKiejWGc0SObwE.jpg?w=1080&h=720"
+						},
+						{
+							"imageSrc": "https://flipdishimages.azureedge.net/bmUawXRlRjt8KMZOQxHvWmLAE.jpg?w=1080&h=720"
+						},
+						{
+							"imageSrc": "https://flipdishimages.azureedge.net/oPzz1gSwBFWV2AG4MeQC4ebpQw.jpg?w=1080&h=720"
+						}
+					]
+				},
+				"sectionTwo": {
+					"sectionTitle": "Discover Our Culture",
+					"text": "Mexican cuisine is known for its blending of Indigenous and European cultures, and to a lesser extent, African and Asian. In contemporary times, various world cuisines have become popular in Mexico, thus adopting a Mexican fusion. For example, sushi in Mexico is often made by using a variety of sauces based on mango and tamarind, and very often served with serrano-chili blended soy sauce, or complemented with vinegar, habenero peppers and chipotle peppers.",
+					"images": [{
+							"imageSrc": "https://flipdishimages.azureedge.net/4OZAEtChSBRqv5dEUz56WVxvg.jpg?w=1080&h=720"
+						},
+						{
+							"imageSrc": "https://flipdishimages.azureedge.net/F5mhRPV15jX46T83UPA1loLncOE.jpg?w=1080&h=720"
+						},
+						{
+							"imageSrc": "https://flipdishimages.azureedge.net/A6GxtvaJa8c2sPDNPbrcy8dVjns.jpg?w=1080&h=720"
+						},
+						{"imageSrc": "https://flipdishimages.azureedge.net/ONQ0XUbuNEgqSS5QF0Jb0PbqBfk.jpg?w=1080&h=720"}
+					]
+				}
+			}]
+
+		},
+		"timetable": {},
+		"menu": {
+			"menuTitles": [{"menuTitle": "Starters"}, {"menuTitle": "Burritos"}, {"menuTitle": "Fajitas"}],
+			"menus": [
+				{
+				"menuItems": [
+					{
+						"name": "Tequilla Wings",
+						"description": "Comes with a side of sour cream",
+						"price": "5.95"
+					},
+					{
+						"name": "Stuffed Aubergine",
+						"description": "Topped with cheese",
+						"price": "5.50"
+					},
+					{
+						"name": "Nachos",
+						"description": "(Great for sharing). Crunchy tortilla chips, guacamole, pico de gallo,  jalapeños, baked with fresh cheese American cheese sauce if requested! And chilli beef, slow cooked chicken or pulled pork and chorizo (€1.50 each) by clicking EXTRA OPTIONS on the next page",
+						"price": "6.95"
+					},
+					{
+						"name": "Fish Ceviche",
+						"description": "Pulled fired sea bass with fresh tomato salsa, flavoured with our secret marinade",
+						"price": "3.95"
+					},
+					{
+						"name": "New Pizza",
+						"description": "",
+						"price": "0.00"
+					}
+				]},
+					{
+				"menuItems": [
+					{
+						"name": "Pulled Pork and Chorizo Burrito",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Chilli Beef Burrito",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Slow-Cooked Spicy Chicken Burrito",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Shredded Beef Burrito",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "HM Soya Chilli Mince Burrito",
+						"description": "",
+						"price": "8.95"
+					}
+				]},
+					{
+				"menuItems": [{
+						"name": "Marinated Grilled Chicken Fajita",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Spiced Steak Fajita",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Prawn Fajita",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "Fish Fajita",
+						"description": "",
+						"price": "8.95"
+					},
+					{
+						"name": "HM Soya Chilli Mince Burrito",
+						"description": "",
+						"price": "8.95"
+					}
+				]}
+			]
+			
+		},
+		"gallery": {
+			"sectionTitle": "gallery",
+			"subtitle": "travel to mexico!",
+			"images": [{
+				"imageSrc": ""
+			}, {
+				"imageSrc": ""
+			}, {
+				"imageSrc": ""
+			}, {
+				"imageSrc": ""
+			}, {
+				"imageSrc": ""
+			}, {
+				"imageSrc": ""
+			}]
+		},
+		"reservations": {
+			"sectionTitle": "reservations",
+			"subtitle": ""
+		},
+		"testimonials": {
+			"sectionTitle": "testimonials",
+			"backgroundImage": "https://flipdishimages.azureedge.net/0Htz7QSAuRd771DGcA1OQEVQKU.jpg?w=1920&h=1280&Strategy=Exact",
+			"text": ["Tasty, so so tasty! I love Mexican Cafe the quality of the ingredients is far better than anywhere else! I love the burrito bowl and the tortillas! They have nice staff, always smiley and friendly!", "So I am fussy and decided to ask for four dishes that were not on the menu. They made them, charged a sensible price and were fantastic. Hats off, you want the customer to leave happy and I sure was!", "Spotless clean, nice staff, food always fresh and served competently"]
+		},
+		"contact": {
+			"sectionTitle": "contact"
+		},
+		"map": {},
+		"footer": {}
+	}
+}
