@@ -126,9 +126,15 @@
 					}
 				],
 				"mobileApp": [{
-					"itunes": "https://itunes.apple.com/app/id1080308288"
+					"name": "iTunes",
+					"src": "https://itunes.apple.com/app/id1080308288",
+					"imgSrc": "../../../../assets/img/apple_logo1.png",
+					"alt": "IOS App"
 				}, {
-					"playStore": "https://play.google.com/store/apps/details?id=ie.flipdish.mexicancafe"
+					"name": "playStore",
+					"src": "https://play.google.com/store/apps/details?id=ie.flipdish.mexicancafe",
+					"imgSrc": "../../../../assets/img/android_logo1.png",
+					"alt": "Android App"
 				}]
 			}
 		},
