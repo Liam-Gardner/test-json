@@ -1,20 +1,22 @@
 {
 	"restaurant": {
-		"name": "MexicanCafe",
-		"language": "English",
-		"currency": "£",
-		"colour": "#b20837", 
-		"logo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/thumb_appicon.png",
-		"socialMedia": [{
-			"site": "facebook",
-			"classStyle": "fab fa-facebook-f"
-		}, {
-			"site": "instagram",
-			"classStyle": "fab fa-instagram"
-		}, {
-			"site": "twitter",
-			"classStyle": "fab fa-twitter"
-		}],
+		"global": {
+			"name": "MexicanCafe",
+			"language": "English",
+			"currency": "£",
+			"colour": "#b20837", 
+			"logo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/thumb_appicon.png",
+			"socialMedia": [{
+				"site": "facebook",
+				"classStyle": "fab fa-facebook-f"
+			}, {
+				"site": "instagram",
+				"classStyle": "fab fa-instagram"
+			}, {
+				"site": "twitter",
+				"classStyle": "fab fa-twitter"
+			}]
+		},
 		"header": {
 			"navbar": {
 				"menuOptions": [{
@@ -38,17 +40,7 @@
 						"link": "#reservations"
 					}
 				],
-				"socialMedia": [{
-					"site": "facebook",
-					"classStyle": "fab fa-facebook-f"
-				}, {
-					"site": "instagram",
-					"classStyle": "fab fa-instagram"
-				}, {
-					"site": "twitter",
-					"classStyle": "fab fa-twitter"
-				}],
-
+				
 				"languageOptions": [{
 					"language": "Nederlands",
 					"value": "nl"
@@ -194,7 +186,7 @@
 					},
 					{
 						"name": "Nachos",
-						"description": "(Great for sharing). Crunchy tortilla chips, guacamole, pico de gallo,  jalapeños, baked with fresh cheese American cheese sauce if requested! Add chilli beef, slow cooked chicken or pulled pork and chorizo (€1.50 each) by clicking EXTRA OPTIONS on the next page",
+						"description": "(Great for sharing). Crunchy tortilla chips, guacamole, pico de gallo,  jalapeños, baked with fresh cheese American cheese sauce if requested! And chilli beef, slow cooked chicken or pulled pork and chorizo (€1.50 each) by clicking EXTRA OPTIONS on the next page",
 						"price": "6.95"
 					},
 					{
@@ -258,7 +250,7 @@
 						"price": "8.95"
 					},
 					{
-						"name": "HM Soya Chilli Mince Fajita",
+						"name": "HM Soya Chilli Mince Burrito",
 						"description": "",
 						"price": "8.95"
 					}
