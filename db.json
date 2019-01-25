@@ -61,13 +61,13 @@
 		},
 			"banner": {
 				"images": [{
-						"imageSrc": "../../img/assets/slider_img1.jpg"
+						"imageSrc": require("../../../img/assets/slider_img1.jpg")
 					},
 					{
-						"imageSrc": "../../img/assets/slider_img2.jpg"
+						"imageSrc": require("../../../img/assets/slider_img2.jpg")
 					},
 					{
-						"imageSrc": "../../img/assets/slider_img3.jpg"
+						"imageSrc": require("../../../img/assets/slider_img3.jpg")
 					}
 				],
 				"restaurantAddresses": [{
