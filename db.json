@@ -178,6 +178,7 @@
 		},
 		"timetable": {},
 		"menu": {
+			"menuLogo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/thumb_appicon.png",
 			"menuTitles": [{"menuTitle": "Starters"}, {"menuTitle": "Burritos"}, {"menuTitle": "Fajitas"}],
 			"menus": [
 				{
