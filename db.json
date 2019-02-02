@@ -185,7 +185,172 @@
 
 
 		},
-		"timetable": {},
+		"timetable": {
+			"stores": [
+				{"title": "Demo Mexican Cafe", "city": "London"}, 
+				{"title": "Demo Mexican Cafe", "city": "Edinburgh"}, 
+				{"title": "Demo Mexican Cafe", "city": "Sydney"},
+				{"title": "Demo Mexican Cafe", "city": ""},
+				{"title": "Demo Mexican Cafe", "city": "Chinese"} 
+			],
+			"storetimes": [{
+					"Data": [{
+							"DayOfWeek": "Monday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Tuesday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Wednesday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Thursday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Friday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Saturday",
+							"StartTime": "March 13, 19 19:55:00",
+							"Period": "March 13, 19 04:05:00",
+							"StartTimeEarly": "March 13, 19 19:55:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Sunday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						}
+					]
+				},
+
+				{
+					"Data": [{
+							"DayOfWeek": "Monday - Tuesday",
+							"StartTime": "March 13, 19 05:57:00",
+							"Period": "March 13, 19 13:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Wednesday",
+							"StartTime": "March 13, 19 06:00:00",
+							"Period": "March 13, 19 22:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Thursday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Friday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 23:59:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Saturday",
+							"StartTime": "March 13, 19 05:00:00",
+							"Period": "March 13, 19 23:30:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Sunday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 12:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						}
+					]
+				},
+				{
+					"Data": [{
+						"DayOfWeek": "Monday - Sunday",
+						"StartTime": "March 13, 19 01:00:00",
+						"Period": "March 13, 19 12:00:00",
+						"StartTimeEarly": "March 13, 19 00:00:00",
+						"PeriodEarly": "March 13, 19 00:00:00"
+					}]
+				},
+				{
+					"Data": [{
+							"DayOfWeek": "Monday - Thursday",
+							"StartTime": "March 13, 19 01:00:00",
+							"Period": "March 13, 19 12:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Friday",
+							"StartTime": "March 13, 19 10:00:00",
+							"Period": "March 13, 19 02:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Saturday",
+							"StartTime": "March 13, 19 01:07:00",
+							"Period": "March 13, 19 12:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Sunday",
+							"StartTime": "March 13, 19 12:13:00",
+							"Period": "March 13, 19 23:59:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						}
+					]
+				},
+				{
+					"Data": [{
+							"DayOfWeek": "Monday",
+							"StartTime": "March 13, 19 01:07:00",
+							"Period": "March 13, 19 12:00:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						},
+						{
+							"DayOfWeek": "Tuesday - Sunday",
+							"StartTime": "March 13, 19 12:13:00",
+							"Period": "March 13, 19 23:59:00",
+							"StartTimeEarly": "March 13, 19 00:00:00",
+							"PeriodEarly": "March 13, 19 00:00:00"
+						}
+					]
+				}
+
+			  ]
+			},
 		"menu": {
 			"menuLogo": "https://flipdish.blob.core.windows.net/white-label-assets/whitelabelconfigs/31/thumb_appicon.png",
 			"menuTitles": [{"menuTitle": "Starters"}, {"menuTitle": "Burritos"}, {"menuTitle": "Fajitas"}],
